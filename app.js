@@ -1,2 +1,1 @@
-new content from Sergey (updated again
-)
+new content from Sergey (ready for pr)
